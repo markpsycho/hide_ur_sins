@@ -1,11 +1,10 @@
 # hideursins
 using base64 encoding to protect files
 
-Code uses python3<br \>
+Code uses python3__
+using code__
 
-using code<br \>
-
-To encrypt files use cammand<br \>
+To encrypt files use cammand__
 python3 encrypt.py \<file to encrypt\> en \<passphrase> \<output file name>
 
 To decrypt<br \>
