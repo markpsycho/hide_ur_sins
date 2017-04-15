@@ -28,3 +28,7 @@ to decrypt the file encrypted_sin  use the cammand-
 password* would be same as  passphrase used while encrypting the file
 
 above cammand will decrypt file named "encrypted_sin"  into file named "decrypted_sin" .
+
+Demo:
+
+https://www.youtube.com/watch?v=qphyBz5AuLs
