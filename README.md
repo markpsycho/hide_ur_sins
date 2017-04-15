@@ -1,2 +1,3 @@
 # hideursins
-using base64 encoding for protecting files
+using base64 encoding to protect files
+
