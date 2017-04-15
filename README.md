@@ -1,22 +1,22 @@
 # hideursins
 using base64 encoding to protect files
 
-Code uses python3__
-using code__
+Code uses python3
+using code
 
-To encrypt files use cammand__
+To encrypt files use cammand
 python3 encrypt.py \<file to encrypt\> en \<passphrase> \<output file name>
 
-To decrypt<br \>
+To decrypt
 python3 encrypt.py \<file to derypt\> d \<passphrase\> \<output file\>
 
-example-<br \>
+example-
 
-python3 encrypt.py sin.mp4 en password encrypted_sin<br \>
+python3 encrypt.py sin.mp4 en password encrypted_sin
 
-above cammand will encrypt sin.mp4 file into encrypted_sin file.<br \>
+above cammand will encrypt sin.mp4 file into encrypted_sin file.
 
-to decrypt the encrypted_sin file use the cammand-<br \>
-python3 encrypt.py encrypted_sin d password* decrypted_sin<br \>
+to decrypt the encrypted_sin file use the cammand-
+python3 encrypt.py encrypted_sin d password* decrypted_sin
 
 above cammand will decrypt encrypted_sin file into decrypted_sin file.
