@@ -25,6 +25,6 @@ to decrypt the file encrypted_sin  use the cammand-
 
 > python3 encrypt.py encrypted_sin d password* decrypted_sin
 
-passwrod* would be same as  passphrase used while encrypting the file
+password* would be same as  passphrase used while encrypting the file
 
 above cammand will decrypt file named "encrypted_sin"  into file named "decrypted_sin" .
