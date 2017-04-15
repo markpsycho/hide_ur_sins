@@ -32,3 +32,9 @@ above cammand will decrypt file named "encrypted_sin"  into file named "decrypte
 Demo:
 
 https://www.youtube.com/watch?v=qphyBz5AuLs
+
+recommended passphrase: 3-5 characters long
+
+Code won't work with  passphrases less than 3 characters.
+
+
