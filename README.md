@@ -15,12 +15,16 @@ To decrypt
 
 example-
 
+above cammand will encrypt file "sin.mp4"  into file "encrypted_sin" .
+
+
 > python3 encrypt.py sin.mp4 en password encrypted_sin
 
-above cammand will encrypt sin.mp4 file into encrypted_sin file.
 
-to decrypt the encrypted_sin file use the cammand-
+to decrypt the file encrypted_sin  use the cammand-
 
 > python3 encrypt.py encrypted_sin d password* decrypted_sin
 
-above cammand will decrypt encrypted_sin file into decrypted_sin file.
+passwrod* would be same as  passphrase used while encrypting the file
+
+above cammand will decrypt file named "encrypted_sin"  into file named "decrypted_sin" .
