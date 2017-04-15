@@ -6,10 +6,10 @@ Code uses python3
 using code
 
 To encrypt files use cammand
-python3 encrypt.py <file to encrypt> en <passphrase> <output file name>
+python3 encrypt.py \<file to encrypt\> en \<passphrase> \<output file name>
 
 To decrypt-
-python3 encrypt.py <file to derypt> d <passphrase> <output file>
+python3 encrypt.py \<file to derypt\> d \<passphrase\> \<output file\>
 
 example-
 
